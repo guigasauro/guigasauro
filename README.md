@@ -14,4 +14,5 @@ and ready for new challenges.
 Contact me at:
 
 gui.ns7431@gmail.com - Inbox
+
 linkedin.com/in/guilhermenogr/ - LinkedIn profile
