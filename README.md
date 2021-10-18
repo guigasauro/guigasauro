@@ -4,7 +4,7 @@ I'm an 18 year old student from Brazil, majoring in Computer Engineering,
 and i'm passionate with technology and programming in general.
 
 I'm currently learning C++ and Java, along with some frameworks
-like Spring Boot, and gonna be putting my college and courses'
+like Bootstrap, and gonna be putting my college and courses'
 exercises here, along with some personal projects i'll be working on 😉
 
 I'm currently looking for a Dev internship or full-time job, so
