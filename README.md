@@ -1,4 +1,4 @@
-# Hello!!
+# About me
 Hi, I’m @guigasauro, but you can call me Guilherme or Gui, for short.
 
 I'm an 19 year old student from Brazil, majoring in Computer Engineering,
